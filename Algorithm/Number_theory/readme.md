@@ -37,5 +37,6 @@
 
 
 # Questions related to Number Theory
-
+F
 - GCD of two number using Euclidean Algorithm ----> [Java](/Code/Java/GCD.java)
+- Fibonacci Series in Java ----> [Java](/Code/Java/Fibonacci_Series.java)
