@@ -12,4 +12,4 @@ A string is a class that contains a char array, but automatically manages it for
 <hr>
 
 ## Questions :
-
+* Shortest Common Super Sequence ----> [Python](/Code/Python/Shortest_Common_Supersequence.py)
